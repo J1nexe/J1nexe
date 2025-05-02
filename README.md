@@ -13,6 +13,14 @@
 
 </div>
 
+## 📊 GitHub Stats
+*(Note: Private contributions are included)*
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=J1nexe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="J1nexe's GitHub Stats (Including Private Contributions)"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J1nexe&layout=compact&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="J1nexe's Top Languages (Including Private Repos)"/>
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=J1nexe&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
