@@ -13,6 +13,20 @@
 
 </div>
 
+</br>
+
+<!-- GitHub Stats Section -->
+<div align="center">
+
+  <!-- Replace 'J1nexe' with your actual GitHub username if it's different -->
+  [![J1nexe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J1nexe&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J1nexe&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+<!-- End GitHub Stats Section -->
+
+<br/> <!-- Add some space -->
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=J1nexe&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
