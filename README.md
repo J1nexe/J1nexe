@@ -20,10 +20,11 @@
 
 <div align="center">
 
-  <!-- Profile Details Card from github-profile-summary-cards -->
-  <!-- Shows followers, public repos, etc. Theme: dracula -->
+  <!-- GitHub Streak Stats -->
+  <!-- Shows Total Contributions, Current Streak, and Longest Streak -->
   <!-- Make sure 'J1nexe' is your correct GitHub username -->
-  [![J1nexe's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J1nexe&theme=dracula)](https://github.com/rickstaa/github-profile-summary-cards)
+  <!-- Source: https://github.com/DenverCoder1/github-readme-streak-stats -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=J1nexe&theme=radical)](https://git.io/streak-stats)
 
 </div>
 <!-- End GitHub Stats Section -->
