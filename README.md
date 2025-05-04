@@ -16,11 +16,12 @@
 </br>
 
 <!-- GitHub Stats Section -->
+<!-- Note: Removed 'count_private=true' to show only public stats -->
 <div align="center">
 
-  <!-- Replace 'J1nexe' with your actual GitHub username if it's different -->
-  [![J1nexe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J1nexe&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J1nexe&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- Make sure 'J1nexe' is your correct GitHub username -->
+  [![J1nexe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J1nexe&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J1nexe&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <!-- End GitHub Stats Section -->
@@ -28,6 +29,9 @@
 <br/> <!-- Add some space -->
 
 ## 🏆 GitHub Trophies
+<!-- Make sure 'J1nexe' is your correct GitHub username -->
 ![](https://github-profile-trophy.vercel.app/?username=J1nexe&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<br/> <!-- Add some space before the quote if desired -->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
