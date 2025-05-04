@@ -16,12 +16,14 @@
 </br>
 
 <!-- GitHub Stats Section -->
-<!-- Note: Removed 'count_private=true' to show only public stats -->
+<h2 align="center">📊 GitHub Stats Overview</h2>
+
 <div align="center">
 
+  <!-- Profile Details Card from github-profile-summary-cards -->
+  <!-- Shows followers, public repos, etc. Theme: dracula -->
   <!-- Make sure 'J1nexe' is your correct GitHub username -->
-  [![J1nexe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=J1nexe&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J1nexe&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![J1nexe's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J1nexe&theme=dracula)](https://github.com/rickstaa/github-profile-summary-cards)
 
 </div>
 <!-- End GitHub Stats Section -->
